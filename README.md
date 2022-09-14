@@ -1,14 +1,14 @@
-##What is this?
+## What is this?
 This is a completed example project that demonstrates how to use React, the Fetch API, and React hooks (useReducer() and useEffect()) to make an API call to the New York Times API. See the React with APIs course section on LHTP.com for related lessons.
 
-##Project Setup
+## Project Setup
 You need to set up a .env file with your own New York Times key to run this project. Follow the instructions in this lesson to get the exact details for getting an NY Times API key and setting up the .env file.
 
 To install dependencies, run $ npm run install in the root directory of the project.
 
-##This project was bootstrapped with Create React App.
+## This project was bootstrapped with Create React App.
 
-###Available Scripts
+### Available Scripts
 In the project directory, you can run:
 
 npm start
